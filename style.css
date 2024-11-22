@@ -1,0 +1,19 @@
+* {
+    background-image: url("stars2.png");
+    color: white;
+}
+
+a {
+    color: yellow
+}
+
+#hero > p {
+color: aliceblue;
+}
+
+#about > * {
+    color:pink
+}
+i {
+    color: pink
+}
